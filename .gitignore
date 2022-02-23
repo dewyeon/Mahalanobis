@@ -1,0 +1,9 @@
+src/wandb/
+data/
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*.pyc
+result/temp
+result/
+wandb/
